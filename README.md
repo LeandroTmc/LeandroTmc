@@ -34,4 +34,4 @@ Soy un apasionado de la tecnología enfocado en el **Desarrollo Backend con Pyth
 ---
 
 📫 **¿Cómo contactarme?**
-* **LinkedIn:** [[Tu Nombre/Enlace a tu LinkedIn]](https://www.linkedin.com/in/miguel-colmenarez-a11780231/)
+* **LinkedIn:** [[Miguel Leandro ]](https://www.linkedin.com/in/miguel-colmenarez-a11780231/)
